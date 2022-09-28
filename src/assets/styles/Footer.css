@@ -1,0 +1,12 @@
+.footer-container {
+    background-color: black;
+    color: #ffffff;
+    padding: 15px;
+    text-align: center;
+    font-size: 10px;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 275;
+    letter-spacing: 1px;
+    line-height: 1.5;
+    margin-top: 15px;
+}
