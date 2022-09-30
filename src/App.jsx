@@ -1,6 +1,16 @@
 import './App.css'
 import Language from './components/Language'
 import Layout from './components/Layout'
+import "./assets/imgs/arabic.png"
+import "./assets/imgs/bengali.png"
+import "./assets/imgs/english.png"
+import "./assets/imgs/french.png"
+import "./assets/imgs/hindi.png"
+import "./assets/imgs/mandarin.png"
+import "./assets/imgs/portuguese.png"
+import "./assets/imgs/russian.png"
+import "./assets/imgs/spanish.png"
+import "./assets/imgs/urdu.png"
 
 function App() {
   return (
